@@ -1,5 +1,5 @@
 
-# n-queen
+# 8-puzzle
 
 This application is writen with python 3.9
 
